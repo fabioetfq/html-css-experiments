@@ -1,0 +1,40 @@
+body {
+  font-family: 'Lora', serif;
+  font-size: 18px;
+  color: rgb(80, 80, 80);
+  font-weight: lighter;
+}
+
+.banner {
+  background-image: url(https://source.unsplash.com/koy6FlCCy5s);
+  background-size: cover;
+  color: white;
+  padding: 120px 0;
+  text-shadow: 3px 3px 5px black;
+}
+
+.container {
+  width: 700px;
+  margin: 50px auto;
+}
+
+.banner h2 {
+  color: rgb(120, 120, 120);
+  font-weight: lighter;
+}
+
+.banner p {
+  font-size: 30px;
+  font-style: italic;
+}
+
+a {
+  color: black;
+  font-size: 24px;
+  text-decoration: none;
+  background-color: rgb(206, 230, 166);
+}
+
+a:hover {
+  background-color: rgb(147, 165, 118);
+}
